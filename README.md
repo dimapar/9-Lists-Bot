@@ -9,7 +9,7 @@
 #### NOTION_TASK_DB - Go to the database the bot will work with and copy the link, the required ID will be between / and ?v
 ![img.png](media/img.png)
 #### TELEGRAM_BOT_TOKEN - Go to telegram, write to the official bot @BotFather, with the help of which bots are created and moderated. Create a bot and copy its token
-![img_5.png](media/img5.png) 
+![img_5.png](media/img_5.png) 
 ### 2. Connecting a database in Notion
 #### Go to the database page. *IMPORTANT: this must be exactly: Database - full page*
 #### In the right corner, click on ... , go to the *Add connections* section, and add your token
@@ -29,7 +29,7 @@
 ![img.png](media/img.png)
 
 #### TELEGRAM_BOT_TOKEN - Зайдите в телеграмм,напишите официальному боту @BotFather, с помощью которого создаются и модерируются боты. Создайте бот и скопируйте его токен
-![img_5.png](media/img5.png) 
+![img_5.png](media/img_5.png) 
 ### 2. Подключение базы данных в Notion
 #### Зайдите на страницу базы данных. *ВАЖНО: это должна быть именно: Database — full page*
 #### В правом углу нажмите на ... , перейдите к разделу *Add connections*, и добавте ваш токен
