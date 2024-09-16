@@ -16,22 +16,4 @@
 ![img_4.png](media/img_4.png)
 ### 3. Install all dependencies from requirements.txt and run the bot
 
-***
-# Простой бот для записи задач в Notion через телеграм бота
-## Quick start
-### 1. Необходимо заполнить .env файл  
-#### NOTION_TOKEN - Перейдите по ссылке, создайте новую интеграцию и скопируйте ее токен 
-![img_1.png](media/img_1.png)
-![img_2.png](media/img_2.png)
-![img_3.png](media/img_3.png) 
 
-#### NOTION_TASK_DB - Перейдите к БД, с которой будет работать бот и скопируйте ссылку, нужный ID будет находиться между / и ?v
-![img.png](media/img.png)
-
-#### TELEGRAM_BOT_TOKEN - Зайдите в телеграмм,напишите официальному боту @BotFather, с помощью которого создаются и модерируются боты. Создайте бот и скопируйте его токен
-![img_5.png](media/img_5.png) 
-### 2. Подключение базы данных в Notion
-#### Зайдите на страницу базы данных. *ВАЖНО: это должна быть именно: Database — full page*
-#### В правом углу нажмите на ... , перейдите к разделу *Add connections*, и добавте ваш токен
-![img_4.png](media/img_4.png)
-### 3. Установите все зависимости из requirements.txt и запустите бота
